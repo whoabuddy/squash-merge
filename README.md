@@ -9,3 +9,7 @@ Testing first commit.
 ## Commit 2
 
 Testing second commit.
+
+## Commit 3
+
+Testing third commit.
