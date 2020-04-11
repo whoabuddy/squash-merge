@@ -13,3 +13,7 @@ Testing second commit.
 ## Commit 3
 
 Testing third commit.
+
+## Commit 4
+
+Now commit doesn't look like a word anymore!
