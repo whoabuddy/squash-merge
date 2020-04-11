@@ -17,3 +17,7 @@ Testing third commit.
 ## Commit 4
 
 Now commit doesn't look like a word anymore!
+
+## Commit 5
+
+Testing fifth commit after squash.
